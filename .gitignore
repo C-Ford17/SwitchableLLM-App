@@ -1,0 +1,10 @@
+# Entornos y dependencias
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Archivos de entorno y claves
+.env
+*.env
